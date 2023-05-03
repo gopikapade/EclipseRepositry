@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EclipseRepositryApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Repsositry");
 		SpringApplication.run(EclipseRepositryApplication.class, args);
 	}
 
